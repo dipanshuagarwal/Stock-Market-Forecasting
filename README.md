@@ -2,9 +2,9 @@
 
 Stock Market Forecasting using Time Series Analysis, as well as comparative analysis of different prediction methodologies.
 
-**DATASET :** 
+**DATASET :** [dataset11-19](https://raw.githubusercontent.com/dipanshuagarwal/Stock-Market-Forecasting/master/dataset11-19.csv)
 
-**TRAINING PLATFORM :** 
+**TRAINING PLATFORM :** Google Colab
 
 **MODELS INCLUDED -**
 1. MOVING AVERAGE
