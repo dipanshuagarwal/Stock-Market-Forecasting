@@ -26,7 +26,6 @@ We’ll be using a dataset from [https://www.moneycontrol.com](https://www.money
 ### Conclusion
 ![Comparison](https://github.com/dipanshuagarwal/Stock-Market-Forecasting/blob/master/Compare.png)
 
-As we can see in Table, LSTM is the most efficient model which was implemented on our particular dataset.
-The LSTM model was the best model implemented out of all to work with Time-Series. But are the predictions from LSTM enough to identify whether the stock price will increase or decrease? Certainly not! 
+As we can see in Table, LSTM is the most efficient model which was implemented on our particular dataset. But are the predictions from LSTM enough to identify whether the stock price will increase or decrease? Certainly not! 
 
 As we know, stock price is affected by the news about the company and other factors like demonetization or merger/demerger of the companies. There are certain intangible factors as well which can often be impossible to predict beforehand.
